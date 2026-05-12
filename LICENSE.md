@@ -1,4 +1,4 @@
-# 
+# high-frequency MEV arbitrage bot | degen-coin-scanning + sandwich-attack-execution offers the most advanced MEV arbitrage bot, with degen-coin-scanning and
 
 
 
